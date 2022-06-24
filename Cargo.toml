@@ -9,4 +9,4 @@ readme = "README.md"
 license = "MIT"
 
 [dependencies]
-nix = "0.11"
+nix = "0.23.1"
